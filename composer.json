@@ -10,8 +10,7 @@
   },
   "autoload": {
     "psr-4": {
-      "backtheweb\\Akismet\\": "src/"
-
+      "Backtheweb\\Akismet\\": "src/"
     }
   },
   "minimum-stability": "dev"
