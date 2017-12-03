@@ -1,0 +1,18 @@
+{
+  "name": "backtheweb/laravel-akismet",
+  "description": "Akismet for Laravel 5",
+  "keywords": ["akismet", "laravel"],
+  "license": "MIT",
+  "require": {
+    "php": "^7.0",
+    "guzzlehttp/guzzle": "6.*",
+    "laravel/framework": "^5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "backtheweb\\Akismet\\": "src/"
+
+    }
+  },
+  "minimum-stability": "dev"
+}
